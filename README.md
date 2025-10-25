@@ -28,5 +28,4 @@ You can play against the computer, and it keeps track of your score. The game sh
 3. Click on **Stone, Paper, or Scissor** to start playing.  
 
 
-## Author
-- **Your Name** – [GitHub Profile](https://github.com/your-username)
+
